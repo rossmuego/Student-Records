@@ -1,0 +1,24 @@
+Z:\Documents\Uni\Second Year\SD2\Coursework 1\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.dll
+Z:\Documents\Uni\Second Year\SD2\Coursework 1\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.pdb
+Z:\Documents\Uni\Second Year\SD2\Coursework 1\demoCode\Demo\BusinessObjects\obj\Debug\Business.csprojResolveAssemblyReference.cache
+Z:\Documents\Uni\Second Year\SD2\Coursework 1\demoCode\Demo\BusinessObjects\obj\Debug\Business.csproj.CoreCompileInputs.cache
+Z:\Documents\Uni\Second Year\SD2\Coursework 1\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.dll
+Z:\Documents\Uni\Second Year\SD2\Coursework 1\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.pdb
+Z:\Documents\Uni\Second Year\SD2\Coursework\Coursework 1 Implimentation\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.dll
+Z:\Documents\Uni\Second Year\SD2\Coursework\Coursework 1 Implimentation\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.pdb
+Z:\Documents\Uni\Second Year\SD2\Coursework\Coursework 1 Implimentation\demoCode\Demo\BusinessObjects\obj\Debug\Business.csprojResolveAssemblyReference.cache
+Z:\Documents\Uni\Second Year\SD2\Coursework\Coursework 1 Implimentation\demoCode\Demo\BusinessObjects\obj\Debug\Business.csproj.CoreCompileInputs.cache
+Z:\Documents\Uni\Second Year\SD2\Coursework\Coursework 1 Implimentation\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.dll
+Z:\Documents\Uni\Second Year\SD2\Coursework\Coursework 1 Implimentation\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.pdb
+\\vmware-host\Shared Folders\Documents\Uni\Second Year\SD2\Coursework\Coursework 1 Implimentation\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.dll
+\\vmware-host\Shared Folders\Documents\Uni\Second Year\SD2\Coursework\Coursework 1 Implimentation\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.pdb
+\\vmware-host\Shared Folders\Documents\Uni\Second Year\SD2\Coursework\Coursework 1 Implimentation\demoCode\Demo\BusinessObjects\obj\Debug\Business.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Uni\Second Year\SD2\Coursework\Coursework 1 Implimentation\demoCode\Demo\BusinessObjects\obj\Debug\Business.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\Uni\Second Year\SD2\Coursework\Coursework 1 Implimentation\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.dll
+\\vmware-host\Shared Folders\Documents\Uni\Second Year\SD2\Coursework\Coursework 1 Implimentation\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.pdb
+\\vmware-host\Shared Folders\Documents\Uni\Second Year\SD2\Coursework\CW1\Coursework 1 Implimentation\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.dll
+\\vmware-host\Shared Folders\Documents\Uni\Second Year\SD2\Coursework\CW1\Coursework 1 Implimentation\demoCode\Demo\BusinessObjects\bin\Debug\BusinessObjects.pdb
+\\vmware-host\Shared Folders\Documents\Uni\Second Year\SD2\Coursework\CW1\Coursework 1 Implimentation\demoCode\Demo\BusinessObjects\obj\Debug\Business.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Uni\Second Year\SD2\Coursework\CW1\Coursework 1 Implimentation\demoCode\Demo\BusinessObjects\obj\Debug\Business.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\Uni\Second Year\SD2\Coursework\CW1\Coursework 1 Implimentation\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.dll
+\\vmware-host\Shared Folders\Documents\Uni\Second Year\SD2\Coursework\CW1\Coursework 1 Implimentation\demoCode\Demo\BusinessObjects\obj\Debug\BusinessObjects.pdb
